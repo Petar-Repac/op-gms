@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
+      <title>Osnovi Programiranja</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <description>Last 10 notes on Osnovi Programiranja</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Drawing 2024-04-07 16.19.24.excalidraw</title>
-    <link>https://quartz.jzhao.xyz/Java-AWT/Drawing-2024-04-07-16.19.24.excalidraw</link>
-    <guid>https://quartz.jzhao.xyz/Java-AWT/Drawing-2024-04-07-16.19.24.excalidraw</guid>
-    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ Text Elements Object Component Button Label Checkbox Choice List Container Window Panel Applet Frame Dialog .</description>
-    <pubDate>Sun, 07 Apr 2024 15:35:11 GMT</pubDate>
+    <title>OP - GMŠ</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Dobrodošli na websajt predmeta Osnovi Programiranja Grafičko-Medijske škole na Novom Beogradu. Ovde možete pronaći materijale u programskom jeziku Java u obliku nastavnih jedinica prilagođenih obrazovnim programima srednjih stručnih grafičkih škola koji pohađaju predmet Osnovi Programiranja.</description>
+    <pubDate>Sun, 07 Apr 2024 16:20:35 GMT</pubDate>
   </item><item>
     <title>1 Uvodne vežbe - pokazni primer</title>
     <link>https://quartz.jzhao.xyz/Java-AWT/1-Uvodne-ve%C5%BEbe---pokazni-primer</link>
     <guid>https://quartz.jzhao.xyz/Java-AWT/1-Uvodne-ve%C5%BEbe---pokazni-primer</guid>
     <description>Na ovim vežbama ćemo proći kroz proces pisanja jedne jednostavne Java AWT aplikacije da bismo se bolje upoznali sa klasama i metodama koje nam AWT programski paket nudi ...</description>
-    <pubDate>Sun, 07 Apr 2024 15:35:11 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 16:11:42 GMT</pubDate>
   </item><item>
     <title>0 Uvodni čas</title>
     <link>https://quartz.jzhao.xyz/Java-AWT/0-Uvodni-%C4%8Das</link>
     <guid>https://quartz.jzhao.xyz/Java-AWT/0-Uvodni-%C4%8Das</guid>
     <description>O programskom paketu AWT Java AWT (Abstract Window Toolkit) je API za razvoj Grafičkih Korisničkih Interfejsa (Graphical User Interface - GUI) ili grafičkih aplikacija pisanih ...</description>
-    <pubDate>Sun, 07 Apr 2024 15:35:11 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 16:11:42 GMT</pubDate>
   </item><item>
-    <title>OP GMŠ</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Dobrodošli na websajt predmeta Osnovi Programiranja Grafičko-Medijske škole na Novom Beogradu. Ovde možete pronaći materijale u programskom jeziku Java u obliku nastavnih jedinica prilagođenih obrazovnim programima srednjih stručnih grafičkih škola koji pohađaju predmet Osnovi Programiranja.</description>
-    <pubDate>Sun, 07 Apr 2024 15:35:03 GMT</pubDate>
+    <title>Autori</title>
+    <link>https://quartz.jzhao.xyz/Autori</link>
+    <guid>https://quartz.jzhao.xyz/Autori</guid>
+    <description>Web prezentaciju pripremili i uredili Petar Repac i Zorica Urošević, predmetni nastavnici Osnova Programiranja, Web Dizajna, Internet Programiranja i grupe elektro-predmeta ...</description>
+    <pubDate>Sun, 07 Apr 2024 16:03:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
