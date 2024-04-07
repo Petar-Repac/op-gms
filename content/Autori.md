@@ -1,2 +1,0 @@
-Web prezentaciju pripremili i uredili **Petar Repac** i **Zorica Urošević**,
-predmetni nastavnici Osnova Programiranja, Web Dizajna, Internet Programiranja i grupe elektro-predmeta u [Grafičko-Medijskoj Školi](https://grafickomedijska.edu.rs/) na Novom Beogradu.
